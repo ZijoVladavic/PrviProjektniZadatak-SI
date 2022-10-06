@@ -1,0 +1,152 @@
+p {
+	text-align: center;
+	font-family: garamond;
+	font-size: 21px;
+}
+.slike{
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	float:left;
+	border-radius:10px
+}
+.naslovce{
+	padding:10px;
+	margin:20px;
+	margin-top: 15px;
+	background-color: #F7DBD7;
+	border-radius: 10px;
+	text-align: center;
+   }
+.gal{
+	display: flex;
+    justify-content: center;
+	background-color:black;
+	border-radius:10px;
+}
+h1 {
+	font-family: garamond;
+	font-size: 3em;
+	font-weight: bold;
+	margin-bottom: 25px;
+	margin-top: 15px;
+	}
+.forma {
+	box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+	border-radius: 5px;
+	max-width: 300px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 5px;
+	background-color:#9CC0E7;
+}
+.mainforma {
+	box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+	border-radius: 5px;
+	border-style: inset;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 5px;
+	background-color:#F7DBD7;
+	font-family: garamond, sans-serif;
+	font-size: 22px;
+	padding: 20px;
+	text-align: left;
+	}
+.polje {
+	background-color: #ebebeb;
+	width:300px;
+	height:30px;
+}
+.polje:hover {
+	height: 50px;
+	width: 380px;
+	transition: ease 0.5s;
+}
+.mpolje {
+	background-color: #ebebeb;
+	width:300px;
+	height:70px;
+}
+.footer{
+	margin-left: 25px;
+	margin-right: 25px;
+	overflow: hidden;
+}
+.submit{
+	font-family: garamond;
+	font-size: 15px;
+	border: 0px;
+	background-color: #F0F8FF;
+	color:black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	height: 50px;
+	width: 280px;
+}
+.dugme {
+  float: left;
+  background-color: #F0F8FF;
+  color:black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  height: 50px;
+  width: 100px;
+  font-family: garamond;
+  font-size: 15px;
+  border: 0px;
+}
+.backdugme{
+	background-color: #F0F8FF;
+	color:black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	height: 50px;
+	width: 100px;
+	font-family: garamond;
+	font-size: 15px;
+	border: 0px;
+	
+}
+.reset {
+	font-family: garamond;
+	font-size: 15px;
+	border: 0px;
+	background-color: #F0F8FF;
+	color:black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	height: 50px;
+	width: 280px;
+}
+.dugme:hover {
+  background-color: #97FFFF;
+}
+.backdugme:hover {
+  background-color: #97FFFF;
+}
+.submit:hover {
+  background-color: #A2CD5A;
+}
+.reset:hover{
+	background-color: #F08080;	
+}
+article {
+	margin:  5px 10px 10px 10px;
+	border-bottom: 3px solid black;
+	border-top:  2px solid black;
+	border-left:  3px solid black;
+	border-right:  3px solid black;
+	padding: 5px;
+	background-color: #F7DBD7;
+		}
+
+body {
+	background-color: #9CC0E7;
+		 }
